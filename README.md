@@ -23,3 +23,6 @@ MKS-SERVO42C is upgraded version of MKS-SERVO42C.
 |Motor vibration| Low | Normal | Normal |
 |Motor noise| Low | Normal | Normal |
 |Motor temperature| Low | Normal | Normal |
+| centered  |centered  |centered  |centered  |
+# Hardware
+# Firmware
