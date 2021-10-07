@@ -6,6 +6,7 @@ MKS-SERVO42C is upgraded version of MKS-SERVO42C.
 * Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 # How to buy
 [Aliexpress link（PCBA）](https://www.aliexpress.com/item/1005003340856835.html)
+
 [Aliexpress link（include motor）](https://www.aliexpress.com/item/1005003341058386.html)
 # Comparison of 42C, 42B and 42A
 |Product name| MKS SERVO42C | MKS SERVO42B | MKS SERVO42A | 
