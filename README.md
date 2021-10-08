@@ -17,7 +17,7 @@ MKS-SERVO42C is an upgraded version of MKS-SERVO42B.
 |OLED| YES | Optional | Optional |
 |Opreating Voltage| 7-28V | 12-24V | 12-24V |
 |Adjustable range of current| 0-3000mA | 0-1500mA | 0-2000mA |
-|USTART| YES | NO | YES |
+|USART| YES | NO | YES |
 |Field-Oriented Control| YES | NO | NO|
 |Subdivision| 1-256(1,2,4,8,16,32,64,128,256 can be set by the key,and others can be set by serial port) | 16,32,64,128,256 |16,32,64,128,256 |
 |Angle Resolution| 0.08 degrees | 0.125 degrees | 0.125 degrees |
