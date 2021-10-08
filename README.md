@@ -1,5 +1,5 @@
 # MKS-SERVO42C 
-MKS-SERVO42C is upgraded version of MKS-SERVO42C.
+MKS-SERVO42C is an upgraded version of MKS-SERVO42C.
 ## Related tutorials and Notice
 * User manual.[click here](https://github.com/makerbase-mks/MKS-SERVO42C/wiki)
 
