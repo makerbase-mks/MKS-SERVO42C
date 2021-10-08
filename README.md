@@ -1,14 +1,14 @@
 # MKS-SERVO42C 
 MKS-SERVO42C is upgraded version of MKS-SERVO42C.
-# Related tutorials and Notice
+## Related tutorials and Notice
 * User manual.[click here](https://github.com/makerbase-mks/MKS-SERVO42C/wiki)
 
 * Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
-# How to buy
+## How to buy
 [Aliexpress link（PCBA）](https://www.aliexpress.com/item/1005003340856835.html)
 
 [Aliexpress link（include motor）](https://www.aliexpress.com/item/1005003341058386.html)
-# Comparison of 42C, 42B and 42A
+## Comparison of 42C, 42B and 42A
 |Product name| MKS SERVO42C | MKS SERVO42B | MKS SERVO42A | 
 |------------|--------------------|--------------------|--------------------|
 |The frequency of update| Position:10KHz Velocity:10KHz Torque:20KHz| Position:8KHz| Position:5KHz|
@@ -25,5 +25,5 @@ MKS-SERVO42C is upgraded version of MKS-SERVO42C.
 |Motor vibration| Low | Normal | Normal |
 |Motor noise| Low | Normal | Normal |
 |Motor temperature| Low | Normal | Normal |
-# Hardware
-# Firmware
+## Hardware
+## Firmware
