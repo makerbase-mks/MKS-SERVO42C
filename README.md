@@ -1,5 +1,6 @@
 # MKS-SERVO42C 
-MKS-SERVO42C is an upgraded version of MKS-SERVO42B.
+MKS-SERVO42C is an upgraded version of MKS-SERVO42B. It joins FOC control, has better stability, quieter, smaller vibration, and supports serial port control.
+
 ## Related tutorials and Notice
 * User manual.[click here](https://github.com/makerbase-mks/MKS-SERVO42C/wiki)
 
