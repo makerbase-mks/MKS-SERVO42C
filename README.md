@@ -2,6 +2,8 @@
 MKS SERVO42C is an upgraded version of MKS SERVO42B, It built-in Field-Oriented Control algorithm , position/speed/ torque  closed-loop ,4 Half bridge driver with 8 MOSFET,  it makes the motor quieter, lower vibration and Lower calorific. it supports serial port control.
 
 ## Related tutorials and Notice
+* We developed and open sourced [MKS SERVO42C CONTROL TOOL](https://github.com/makerbase-mks/MKS-SERVO42C/tree/main/MKS%20SERVO42C%20CONTROL%20TOOL).
+
 * User manual.[click here](https://github.com/makerbase-mks/MKS-SERVO42C/wiki)
 
 * Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
