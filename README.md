@@ -30,3 +30,4 @@ MKS SERVO42C is an upgraded version of MKS SERVO42B, It built-in Field-Oriented 
 |Motor temperature| Low | Normal | Normal |
 ## Hardware
 ## Firmware
+![mks_link](https://user-images.githubusercontent.com/12979070/149611774-c2e4e56f-ee07-46c2-abff-a3e3cdd629ae.png)
