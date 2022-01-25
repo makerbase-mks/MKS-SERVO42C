@@ -12,7 +12,7 @@ MKS SERVO42C is an upgraded version of MKS SERVO42B, It built-in Field-Oriented 
 
 [Aliexpress link（with motor）](https://www.aliexpress.com/item/1005003341058386.html)
 ## Comparison of 42C, 42B and 42A
-### [We also published a comparison video.](https://www.youtube.com/watch?v=23O0bUudVkM)
+We released a video. [Please watch.](https://www.youtube.com/watch?v=23O0bUudVkM)
 |Product name| MKS SERVO42C | MKS SERVO42B | MKS SERVO42A | 
 |------------|--------------------|--------------------|--------------------|
 |The frequency of update| Position:10KHz Velocity:10KHz Torque:20KHz| Position:8KHz| Position:5KHz|
