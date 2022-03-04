@@ -30,5 +30,6 @@ We released a video. [Please watch.](https://www.youtube.com/watch?v=23O0bUudVkM
 |Motor noise| Low | Normal | Normal |
 |Motor temperature| Low | Normal | Normal |
 ## Hardware
+* [MKS SERVO42C V1.00](https://github.com/makerbase-mks/MKS-SERVO42C/tree/main/Hardware/MKS SERVO42C V1.00)
 ## Firmware
 ![mks_link](https://user-images.githubusercontent.com/12979070/149611774-c2e4e56f-ee07-46c2-abff-a3e3cdd629ae.png)
