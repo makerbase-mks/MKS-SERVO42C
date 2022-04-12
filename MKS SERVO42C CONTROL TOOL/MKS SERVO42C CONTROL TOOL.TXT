@@ -1,1 +1,0 @@
-MKS SERVO42C CONTROL TOOL is a window program specifically for 42C serial port control, in which you can easily control 42C.
