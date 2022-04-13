@@ -3,7 +3,7 @@ MKS SERVO42C is an upgraded version of MKS SERVO42B, It built-in Field-Oriented 
 Compared with MKS SERVO42C V1.0, MKS SERVO42C V1.1 has improved many functions and fixed many problems, [Click to view](https://github.com/makerbase-mks/MKS-SERVO42C/releases/tag/MKS-SERVO42C-V1.1).
 
 ## Related tutorials and Notice
-* We developed and open sourced [MKS SERVO42C CONTROL TOOL](https://github.com/makerbase-mks/MKS-SERVO42C/tree/main/MKS%20SERVO42C%20CONTROL%20TOOL).
+* We developed and open sourced [MKS SERVO42C CONTROL TOOL](https://github.com/makerbase-mks/MKS-SERVO42C/tree/MKS-SERVO42C-V1.1/MKS%20SERVO42C%20CONTROL%20TOOL).
 
 * User manual.[click here](https://github.com/makerbase-mks/MKS-SERVO42C/wiki)
 
