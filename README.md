@@ -20,7 +20,7 @@ We released a video. [Please watch.](https://www.youtube.com/watch?v=23O0bUudVkM
 |PID control mode| Incremental PID | Incremental PID | sPID/pPID/vPID,The default is sPID |
 |Driver| 4 Half bridge driver with 8 MOSFET | Allergo A4954 Motor Driver | Allergo A4954 Motor Driver |
 |OLED| YES | Optional | Optional |
-|Opreating Voltage| 7-28V | 12-24V | 12-24V |
+|Operating Voltage| 7-28V | 12-24V | 12-24V |
 |Adjustable range of current| 0-3000mA | 0-1500mA | 0-2000mA |
 |USART| YES | NO | YES |
 |Field-Oriented Control| YES | NO | NO|
